@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us | Stand Tall Outreach</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/giraffe.png" alt="Stand Tall Outreach Logo">
+      <h1>Stand Tall Outreach</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="programs.html">Programs</a></li>
+        <li><a href="get-involved.html">Get Involved</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="about">
+    <h2>Our Mission</h2>
+    <p>Stand Tall Outreach empowers communities through education, support, and essential resources for those in need. Our goal is to uplift individuals and families, giving them the tools and encouragement to thrive.</p>
+
+    <h2>Our Story</h2>
+    <p>Founded in 2025, Stand Tall Outreach began with a simple vision: to provide hope and tangible help to people experiencing hardship. Over the years, our programs have expanded to include community events, tutoring, mentoring, and direct outreach to underserved populations.</p>
+
+    <h2>Our Team</h2>
+    <p>Our dedicated team of volunteers and staff work tirelessly to implement our programs and make a positive impact. From outreach coordinators to educators, every team member contributes to our mission of helping people stand tall.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Stand Tall Outreach | Contact: 813-309-5166 | Email: info@standtall.org</p>
+    <div class="social">
+      <a href="#">Facebook</a> | <a href="#">Instagram</a> | <a href="#">Twitter</a>
+    </div>
+  </footer>
+</body>
+</html>
